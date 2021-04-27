@@ -53,18 +53,18 @@ line(297,52,174,286);
  ellipse(387,81,50,50);
  fill(0,255,125); //azul verde
  ellipse(226,331,50,50);
- fill(125,255,0); //
+ fill(125,255,0); //verde amarillo 
  ellipse(151,210,50,50);
- fill(125,0,255);
+ fill(125,0,255); //violeta 
  ellipse(450,210,50,50);
- fill(0,255,255);
+ fill(0,255,255); //cian
  ellipse(300,349,50,50);
- fill(0,125,255);
+ fill(0,125,255); //azul ultramar 
  ellipse(372,331,50,50);
- fill(255,255,0);
+ fill(255,255,0); //amarillo
 ellipse(163,137,50,50);
-fill (255,125,0);
+fill (255,125,0); //naranja
 ellipse(215,81,50,50);
-fill(255,0,255);
+fill(255,0,255); //magenta 
 ellipse(436,138,50,50);
 }
